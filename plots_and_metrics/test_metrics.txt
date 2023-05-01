@@ -1,0 +1,63 @@
+
+################################## Buy-and-Hold ####################################
+Cumulative return:           -5.308360306992133
+Annual return:               0.002236567740188544
+Annual volatility:           0.0046601709980430344
+Sharpe ratio:                0.0045070950971014675
+Volatiltiy:                  1.355805e-03
+
+################################## Buy-and-Hold ####################################
+Cumulative return:           -5.308360306992133
+Annual return:               0.002236567740188544
+Annual volatility:           0.0046601709980430344
+Sharpe ratio:                0.0045070950971014675
+Volatiltiy:                  1.355805e-03
+
+################################## A2C ####################################
+Cumulative return:           -5.733665099771801
+Annual return:               nan
+Annual volatility:           59.66869099154117
+Sharpe ratio:                0.5915814408593192
+Volatiltiy:                  1.392794e+00
+
+################################## PPO ####################################
+Cumulative return:           -6.953812634335954
+Annual return:               nan
+Annual volatility:           73.62652342180347
+Sharpe ratio:                0.6109352345575894
+Volatiltiy:                  1.374505e+00
+
+################################## RecurrentPPO ####################################
+Cumulative return:           -1.631021590330528
+Annual return:               nan
+Annual volatility:           51.666636610415864
+Sharpe ratio:                1.4030548765701745
+Volatiltiy:                  1.197243e+00
+
+################################## Buy-and-Hold ####################################
+Cumulative return:           -5.308360306992133
+Annual return:               0.002236567740188544
+Annual volatility:           0.0046601709980430344
+Sharpe ratio:                0.0045070950971014675
+Volatiltiy:                  1.355805e-03
+
+################################## A2C ####################################
+Cumulative return:           -5.733665099771801
+Annual return:               nan
+Annual volatility:           59.66869099154117
+Sharpe ratio:                0.5915814408593192
+Volatiltiy:                  1.392794e+00
+
+################################## PPO ####################################
+Cumulative return:           -6.953812634335954
+Annual return:               nan
+Annual volatility:           73.62652342180347
+Sharpe ratio:                0.6109352345575894
+Volatiltiy:                  1.374505e+00
+
+################################## RecurrentPPO ####################################
+Cumulative return:           -1.631021590330528
+Annual return:               nan
+Annual volatility:           51.666636610415864
+Sharpe ratio:                1.4030548765701745
+Volatiltiy:                  1.197243e+00
